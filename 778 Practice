@@ -1,8 +1,8 @@
 hello = 'Hello World!"
 print(hello)
 
-##Double hashtags
-###Triple hashtags is markdown?
+## Double hashtags
+### Triple hashtags is markdown?
 # One hashtag is header 1
 ## 2 hashtags is header 2
 ### 3 hashtags is header 3
