@@ -9,3 +9,10 @@ print(hello)
 
 - dash is 
 - bulleted list
+
+1. Numbered list
+2. number and dot, one space
+
+**Two asterisks on each side to BOLD**
+_One underscore on each side to make italics_
+'What is code text, using an apostrophe on each side?'
