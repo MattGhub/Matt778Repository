@@ -1,9 +1,11 @@
 hello = 'Hello World!"
 print(hello)
 
+##Double hashtags
+###Triple hashtags is markdown?
+# One hashtag is header 1
+## 2 hashtags is header 2
+### 3 hashtags is header 3
 
-## Copying Luis Resh's text below:
-
-## Welcome to my Github Pages site for class GES 778!
-
-Below are links to homeworks and projects.
+- dash is 
+- bulleted list
